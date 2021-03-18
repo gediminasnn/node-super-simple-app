@@ -2,7 +2,7 @@
   "name": "node_demo",
   "version": "1.0.0",
   "description": "",
-  "main": "server.js",
+  "main": "app.js",
   "scripts": {
     "dev": "nodemon server",
     "start": "node server"
