@@ -4,10 +4,10 @@ Simple node app made with the help of [codeSTACKr Node.js crash course](https://
 
 ## Route List
 
-- Main route - [https://safe-thicket-11883.herokuapp.com/](https://safe-thicket-11883.herokuapp.com/)
-- About route - [https://safe-thicket-11883.herokuapp.com/about](https://safe-thicket-11883.herokuapp.com/about)
-- Redirect route- [https://safe-thicket-11883.herokuapp.com/redirect](https://safe-thicket-11883.herokuapp.com/redirect)
-- 404 route - [https://safe-thicket-11883.herokuapp.com/loremipsum](https://safe-thicket-11883.herokuapp.com/liremipsum)
+- Main route - https://node-super-simple-app.herokuapp.com/
+- About route - https://node-super-simple-app.herokuapp.com/about
+- Redirect route- https://node-super-simple-app.herokuapp.com/redirect
+- 404 route - https://node-super-simple-app.herokuapp.com/loremipsum
 
 ## Local Setup
 
